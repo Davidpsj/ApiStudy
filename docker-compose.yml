@@ -1,0 +1,30 @@
+﻿version: '3.8'
+
+services:
+  api-study-prod:
+    # 1. Configuração do Build
+    build:
+      # Ponto de partida para o Dockerfile (o diretório atual)
+      context: .
+      # Especifica o nome do arquivo Dockerfile (se for diferente de 'Dockerfile')
+      dockerfile: Dockerfile
+      # Argumentos passados para o Dockerfile durante o build
+      args:
+        PROJECT_NAME: ApiStudy
+
+    # 2. Configuração do Contêiner
+    container_name: api-study-prod-container
+    
+    # 3. Mapeamento de Portas
+    # Formato: "Porta_Host:Porta_Contêiner"
+    ports:
+      - "5000:8080"
+      
+    # 4. Configuração de Restart (Opcional, mas recomendado)
+    # Define o que o Docker deve fazer se o contêiner parar (a menos que seja explicitamente parado)
+    restart: always
+
+# Opcional: Redes personalizadas se você tiver outros serviços (ex: Banco de Dados)
+# networks:
+#   default:
+#     driver: bridge

@@ -1,0 +1,65 @@
+@API_HOST = http://localhost:5000/api
+
+### Login
+# @name login
+POST {{API_HOST}}/auth/login
+Content-Type: application/json
+
+{
+  "email": "david@dpsj.com.br",
+  "senha": "#Dpsj1982#"
+}
+
+### 
+@authToken = Bearer {{ login.response.body.$.token }}
+
+### Get Users
+GET {{API_HOST}}/users
+Accept: application/json
+Authorization: {{authToken}}
+
+###
+@Id = 1
+###
+
+### GetUsers By Id
+GET {{API_HOST}}/users/{{id}}
+Accept: application/json
+Authorization: {{authToken}}
+
+###
+
+### POST User
+POST {{API_HOST}}/users
+Content-Type: application/json
+Authorization: {{authToken}}
+
+{
+  "email": "davidpsjunior@gmail.com",
+  "senha": "#Teste123#",
+  "name": "David Jr."
+}
+
+###
+
+### PUT User
+PUT {{API_HOST}}/users
+Content-Type: application/json
+Authorization: {{authToken}}
+
+{
+  "id": 30002,
+  "name": "David Júnior",
+  "email": "davidpsjunior@gmail.com"
+}
+
+###
+
+@deleteId = 40002
+
+### DELETE User
+DELETE {{API_HOST}}/users/{{deleteId}}
+Accept: application/json
+Authorization: {{authToken}}
+
+###

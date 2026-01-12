@@ -1,0 +1,10 @@
+﻿namespace ApiStudy.Models.Auth;
+
+public class Feature
+{
+    public Guid Id { get; set; }
+
+    public string Name { get; set; } = string.Empty;
+
+    public List<User> Users { get; set; } = [];
+}
