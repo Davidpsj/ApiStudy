@@ -2,7 +2,6 @@
 using ApiStudy.Models.Scryfall.ResponseTypes;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Identity.Client;
 using Refit;
 using System.Net;
 

@@ -1,0 +1,62 @@
+12/02/2026 18:17:25: Criando escopo...
+12/02/2026 18:17:25: Repositório resolvido. Iniciando...
+12/02/2026 18:40:58: Criando escopo...
+12/02/2026 18:40:58: Repositório resolvido. Iniciando...
+12/02/2026 18:44:50: Lote de 706 persistido com sucesso.
+12/02/2026 18:44:51: Lote de 295 persistido com sucesso.
+12/02/2026 18:45:08: Lote de 1000 persistido com sucesso.
+12/02/2026 18:45:29: Lote de 1000 persistido com sucesso.
+12/02/2026 18:45:51: Lote de 1000 persistido com sucesso.
+12/02/2026 18:46:16: Lote de 1000 persistido com sucesso.
+12/02/2026 18:46:44: Lote de 1000 persistido com sucesso.
+12/02/2026 18:47:10: Lote de 1000 persistido com sucesso.
+12/02/2026 18:47:28: Lote de 1000 persistido com sucesso.
+12/02/2026 18:47:50: Lote de 1000 persistido com sucesso.
+12/02/2026 18:48:11: Lote de 1000 persistido com sucesso.
+12/02/2026 18:48:35: Lote de 1000 persistido com sucesso.
+12/02/2026 18:49:00: Lote de 1000 persistido com sucesso.
+12/02/2026 18:49:27: Lote de 1000 persistido com sucesso.
+12/02/2026 18:49:56: Lote de 1000 persistido com sucesso.
+Erro: Chillbringer - An error occurred while sending the request.
+12/02/2026 18:50:28: Lote de 1000 persistido com sucesso.
+12/02/2026 18:50:53: Lote de 1000 persistido com sucesso.
+12/02/2026 18:51:14: Lote de 1000 persistido com sucesso.
+12/02/2026 18:51:36: Lote de 1000 persistido com sucesso.
+12/02/2026 18:51:57: Lote de 1000 persistido com sucesso.
+12/02/2026 18:52:21: Lote de 1000 persistido com sucesso.
+12/02/2026 18:52:48: Lote de 1000 persistido com sucesso.
+12/02/2026 18:53:14: Lote de 1000 persistido com sucesso.
+12/02/2026 18:53:42: Lote de 1000 persistido com sucesso.
+12/02/2026 18:54:13: Lote de 1000 persistido com sucesso.
+12/02/2026 18:54:43: Lote de 1000 persistido com sucesso.
+12/02/2026 18:55:01: Lote de 1000 persistido com sucesso.
+12/02/2026 18:55:22: Lote de 1000 persistido com sucesso.
+12/02/2026 18:55:42: Lote de 1000 persistido com sucesso.
+12/02/2026 18:56:06: Lote de 1000 persistido com sucesso.
+12/02/2026 18:56:31: Lote de 1000 persistido com sucesso.
+12/02/2026 18:56:56: Lote de 1000 persistido com sucesso.
+12/02/2026 18:57:26: Lote de 1000 persistido com sucesso.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
+FATAL SQL DETALHADO: Não foi possível alocar espaço para o objeto 'dbo.MagicCard'.'PK_MagicCard' do banco de dados 'MTG-DPSJ' porque o grupo de arquivos 'PRIMARY' está cheio. Crie espaço em disco excluindo arquivos desnecessários, removendo objetos do grupo de arquivos, adicionando arquivos ao grupo ou definido o aumento automático para arquivos existentes do grupo.
